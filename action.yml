@@ -11,4 +11,7 @@ outputs:
 runs:
   using: 'node20'
   main: 'index.js'
+branding:
+  color: blue
+  icon: align-center
   
